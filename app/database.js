@@ -67,6 +67,9 @@ var initialData = {
 "contents": "sending hugs your way",
 "postDate": 1453690800000
 }
+],
+"likeCommentCounter": [
+2, 3
 ]
 }
 },
